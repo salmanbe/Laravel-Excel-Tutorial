@@ -5,9 +5,8 @@
 
 This is the source code of Laravel database to excel export video tutorial available on youtube. This tutorial uses Laravel, maatwebsite excel plugin, bootstrap 5, MySql, html 5.
 
-<p align="center">
 [![Laravel Excel](https://img.youtube.com/vi/TFe3WqmQmig/0.jpg)](https://www.youtube.com/watch?v=TFe3WqmQmig)
-</p>
+
 - [View complete video tutorial on youtube](https://www.youtube.com/watch?v=TFe3WqmQmig).
 - [Visit youtube channel](https://www.youtube.com/@SCTechStudio).
 - [Visit author's website](https://www.salman.be).
